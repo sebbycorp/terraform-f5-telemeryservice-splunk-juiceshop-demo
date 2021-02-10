@@ -1,4 +1,12 @@
-# terraform-splunk-free-demo
+# Terraform F5 + Splunk + TS + AS3 + JuceiShop Demo
+
+I will add notes later.. 
+
+My on prem lab setup:
+- Deployed the following docker app/services [ Splunk and Jucieshop ] 
+- Configures my F5 BIGIP with virtual server (VIP) to load balance juciceshop
+- Than i have to manually post my F5 TS configuration because its not support in AS3 terraform provider yet :( 
+
 
 ## Note: more will be added.. this is just a quick sample..
 
