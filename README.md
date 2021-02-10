@@ -1,4 +1,4 @@
-# Terraform F5 + Splunk + TS + AS3 + JuceiShop Demo
+# Terraform F5 + Splunk + TS + AS3 + JuiceShop Demo
 
 I will add notes later.. 
 
