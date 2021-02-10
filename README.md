@@ -1,6 +1,6 @@
 # terraform-splunk-free-demo
 
-##Note: more will be added.. this is just a quick sample..
+## Note: more will be added.. this is just a quick sample..
 
 The following is a quick terraform to spin up splunk for your home lab
 - Free splunk enterprise for lab testing
